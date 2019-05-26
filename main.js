@@ -47,3 +47,4 @@ function createCalendar(id, year, month) {
 document.querySelector('#container').append(
     createCalendar("cal", 2012, 9)
 );
+
